@@ -1,7 +1,7 @@
 # Sentiment-Analysis-of-Customer-Reviews
 Project Overview:
 
-This project aims to perform Natural Language Processing (NLP) and Sentiment Analysis on a dataset of customer reviews to extract insights such as word frequency and the overall sentiment of the reviews. The analysis provides an overview of customer opinions based on review text and ratings, which can be useful for businesses to gauge customer satisfaction.
+This project aims to perform Natural Language Processing (NLP) and Sentiment Analysis on a dataset of customer reviews to extract insights such as word frequency and the overall sentiment of the reviews. The analysis provides an overview of customer opinions based on review text and ratings, which can be useful for businesses to gauge customer satisfaction..
 
 Objectives:
 
